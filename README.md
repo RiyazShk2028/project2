@@ -1,4 +1,4 @@
 # New Project
 
 this project was created from local system.
-created by Riyaz Shaikh
+created by Riyaz Shaikh.
